@@ -1,0 +1,40 @@
+.note-btn {
+  color: green;
+  margin: 30px 10px 10px 10px;
+  padding: 5px;
+  display: block;
+  width: 20%;
+}
+.note-list {
+  margin: 10px 5px 20px 5px;
+}
+.notes-container {
+  display: grid;
+  border: solid 1px black;
+  padding-left: 2px;
+  padding-top: 0px;
+}
+.comment-container {
+  display: grid;
+  grid-template-rows: 15%;
+  align-items: center;
+  margin: 10px;
+  padding-left: 20px;
+  padding-bottom: 10px;
+
+}
+
+.comment-container input {
+  margin-right: 8px;
+  padding-left: 10px;
+}
+
+.comment-container button {
+  margin-top: 8px;
+}
+
+.input-box {
+  margin: 5px 0 10px 5px;
+  padding: 1px;
+  width: 50%;
+}
